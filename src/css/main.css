@@ -1,0 +1,17 @@
+nav ul a {
+    color: #000;
+}
+
+nav .sidenav-trigger i {
+    color: #000;
+}
+
+
+@media(max-width: 620px){
+    .name {
+        text-align: center;
+    }
+    .about-us {
+        text-align: justify;
+    }
+}
